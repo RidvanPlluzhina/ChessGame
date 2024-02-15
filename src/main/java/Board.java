@@ -10,7 +10,7 @@ import javafx.scene.paint.Color;
 import javafx.scene.text.Font;
 import javafx.scene.text.FontWeight;
 import javafx.scene.text.Text;
-import javafx.geometry.Insets;
+import javafx.geometry.Insets;;
 import java.util.*;
 
 
@@ -198,7 +198,7 @@ public class Board extends StackPane {
         wKingsq.setOnMouseClicked(this::moveKillmethod);
         wKingsq.setColor(dark);
         Squares[7][4] = wKingsq;
-        
+
         //Adds empty Squares to the table Squares[][]
         int postion_number = 6;
         for (int i = 2; i < 6; i++) {
