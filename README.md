@@ -1,4 +1,4 @@
-# UNIBZ Programming Project 2023
+# UNIBZ Programming Project 2024
 
 ## The Goal
 To create a 2D Chess Game in Java, by applying the knowledge gained in the "Programming Project" course at [UNIBZ](https://www.unibz.it/), during the Academic Year 2023.
