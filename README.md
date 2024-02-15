@@ -39,5 +39,5 @@ Git was used for version control, by creating separate branches to deconflict co
 ### Challenges
 * __Sharjeel Zahid Mahmood:__ I found it difficult to come up with the logic for the implementation of chess rules. But, overtime it became easier to come up with these solutions.
 * __Ridvan Plluzhina:__ The project had its tough moments, especially when dealing with the complex rules of chess.<br>
-Each piece moves differently, and I had to ensure the game followed these rules correctly. Another challenge was designing the game so that it looked good and was easy for players to use. Despite these challenges, overcoming them was incredibly satisfying. Through this project, I learned not just about programming, but also about problem-solving and persistence.
+Each piece moves differently, and we had to ensure the game followed these rules correctly. Another challenge was designing the game so that it looked good and was easy for players to use. Despite these challenges, overcoming them was incredibly satisfying. Through this project, I learned not just about programming, but also about problem-solving and persistence.
 * __Fabio Schick:__ My personal limitations when dealing with the java language were a big learning experience during this project, providing me with good insight in what to improve in the future.
